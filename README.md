@@ -1,5 +1,5 @@
 ## Hi there 👋
-A servant leader in IT, I possess demonstrated abilities in AI innovation and cloud solutions, with a technical specialization in cloud architecture and the modernization of legacy systems. My extensive background encompasses digital transformation, project management, delivery, architectural design, SAP, database technologies, managed services, go-to-market strategies, presales, and the public sector domain.
+As a Data Science Practitioner, Consultant, and  IT Innovative Leader, I have consistently delivered impactful, AI-driven solutions that tackle complex challenges and drive digital transformation. By leveraging advanced technologies, I have created scalable solutions that integrate seamlessly with cloud computing and IT services. With a proven track record in cloud architecture and AI integration, my strengths lie in leading teams, driving innovation, and delivering transformative outcomes in AI and digital services.
 <!--
 **Siva-Nadendla/Siva-Nadendla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
